@@ -12,7 +12,7 @@ To know more about PlantUML, please visit [http://plantuml.sourceforge.net/](htt
 Requirements
 ============
 
- * jre/jdk 1.6.0 or above
+ * jre/jdk 1.8.0 or above
  * gradle
 
 How to run the server
